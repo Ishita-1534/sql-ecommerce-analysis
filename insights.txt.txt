@@ -1,0 +1,19 @@
+E-commerce Data Analysis - Insights
+
+1. Top Customers:
+A small group of customers contributes the highest revenue. These customers are important for business growth.
+
+2. Product Performance:
+Electronics products generate the most sales compared to other categories.
+
+3. Customer Behavior:
+Customers who purchase multiple times (repeat customers) contribute more revenue than one-time buyers.
+
+4. Payment Trends:
+Cash on Delivery (COD) orders have a higher cancellation rate compared to online payments.
+
+5. Sales Trend:
+Sales show variation across months, indicating seasonal demand.
+
+Conclusion:
+The company should focus on retaining top customers, promoting high-performing products, and reducing COD-related cancellations.
