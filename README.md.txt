@@ -40,7 +40,7 @@ To analyze customer behavior and sales data using SQL and generate business insi
 4. Run 'queries.sql'
 
 ## Project Link
-
+https://github.com/Ishita-1534/sql-ecommerce-analysis.git
 
 ## Author
 Ishita
