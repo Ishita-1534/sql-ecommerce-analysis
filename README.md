@@ -1,4 +1,4 @@
-##E-commerce SQL Data Analysis Project
+E-commerce SQL Data Analysis Project
 
 ## Objective
 To analyze customer behavior and sales data using SQL and generate business insights.
